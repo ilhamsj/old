@@ -28,7 +28,6 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-  min-height: 700px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -284,6 +283,9 @@ footer {
   text-align: center;
 }
 
+#main {
+  min-height: 600px;
+}
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";

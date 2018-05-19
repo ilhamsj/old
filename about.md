@@ -40,4 +40,4 @@ Cumulative GPA : 3.72
 - Proficient in Scrum
 
 Check it out  
-{% include svg-icons.html %}
+- Email : [ilhamsaputrajati@gmail.com](ilhamsaputrajati@gmail.com)

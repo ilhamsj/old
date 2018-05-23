@@ -1,3 +1,3 @@
 **Hello There**
 
-- :relaxed: I will stay Hungry and stay Foolish
+:relaxed: Jekyll Now & Github

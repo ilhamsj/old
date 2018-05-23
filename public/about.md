@@ -4,23 +4,22 @@ title: About
 permalink: /about/
 ---
 
-Hi everyone. My name is **Ilham Saputrajati**. I'm from Indonesia,   
->I'm still learning build Web & Mobile Apps.
->>open and vulnerable enough to know there's much more to be taught to me and learned by me. I hope I don't reach my pinnacle on this earth where I think I know it all.
+Hi everyone. My name is **Ilham Saputrajati / インスピレーション**. I'm from Indonesia,  
+My hoby is programming & flair bartending. Future software enginner, solve business problem with data & technology
 
 
 ## Education
 [Universitas PGRI Yogyakarta](http://upy.ac.id/)  
-Jully 2015 - Now  
-Bachelor of Computer Science  
+Jully 2015 - 2019  
+Bachelor Degree (Informatics Engineering)    
 Cumulative GPA : 3.72
 
-## My Road Map
+## Road Map
 **Frontend**  
 - Learn HTML
-- Basic of Css
+- Basic of CSS
 - Basic of Javascript
-- Make some Resonsive website & add Interactivity with Javascript
+- Make some Responsive website & add Interactivity with Javascript
 - VCS Using Git
 - NPM, Yarn, Gem
 - Sass
@@ -31,7 +30,7 @@ Cumulative GPA : 3.72
 **Backend**  
 - PHP using Laravel
 - Composer, NPM
-- MySQL
+- SQL
 - Node JS (On Progress)
 
 **Project Management**  
